@@ -4,10 +4,9 @@
 
  # Eu estou interessado em aprender sobre programação #
  
- # Link:
+ # Link:                                     
  
 # [clique aqui](https://www.teamcherry.com.au/blog/hollow-knight-silksong-revealed)
  
- [imagem]
- 
-  (https://images.app.goo.gl/e7FQZE36JhiodpiE8)
+ ![download](https://user-images.githubusercontent.com/125268729/218729086-63288a8d-b560-40db-ae3b-15da924806d3.jpg)
+
