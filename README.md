@@ -6,8 +6,8 @@
  
  # Link:
  
- [clique aqui](https://www.teamcherry.com.au/blog/hollow-knight-silksong-revealed)
+# [clique aqui](https://www.teamcherry.com.au/blog/hollow-knight-silksong-revealed)
  
  [imagem]
  
- (https://images.app.goo.gl/e7FQZE36JhiodpiE8)
+  (https://images.app.goo.gl/e7FQZE36JhiodpiE8)
