@@ -35,7 +35,10 @@
 
 
                  <p> Os tipos de<strong> protocolos de rede são divididos de acordo com a sua natureza do serviço disponibilizado.</strong> E tambem em qual 
-            camada de profundidade estão localizados na rede de internet</p>
+            camada de profundidade estão localizados na rede de intext-align: center;
+                    color:red;
+                    font-family: Arial;
+                    font-size: 250%;ternet</p>
 
 
 
@@ -59,4 +62,285 @@
            </font>
   
         </body>
+</html><!DOCTYPE html>
+<html lang=""pt-br>
+        <head>
+            <title> tabela </title>
+            <meta charset="UTF-8">
+
+            <style>
+
+                body{
+                    
+                    background-image: linear-gradient( to left, pink, orange, aqua);
+                    
+                }
+
+
+                h1{
+                    text-align: center;
+                    color:black;
+                    font-family: Arial;
+                    font-size: 250%;
+                }
+
+                h2{
+
+                    text-align: center;
+                    color:blue;
+                    font-family: Arial;
+                    font-size: 250%;
+
+
+                }
+                
+                h3{
+
+                    text-align: center;
+                    color:blue;
+                    font-family: Arial;
+                    font-size: 250%;
+
+
+
+
+
+                }
+
+
+                li{
+
+                    
+                    color:blueviolet;
+                    
+                    
+                }
+
+
+                table{
+
+                    background-color: peru;
+                    width: 1260px;
+                    height: 100px;
+
+
+                }
+
+
+
+
+
+
+
+            </style>
+
+        </head>
+        <body>
+
+           
+            <h1> Listas e Tabélas com CSS Interno</h1>
+           
+
+             <h2> Lista Ordenada</h2>
+                <ol>
+                    <li>  Alcool    </li>
+                    <li>  Gasolina       </li>
+                    <li>  Querosene       </li>                
+                    <li>  Clorofórmio       </li>
+
+                </ol>
+           
+            <h3> Lista Não Ordenada </h3>
+           
+                <ul>
+                    <li>  Hidrogênio      </li>
+                    <li>  Hélio    </li>
+                    <li>  Carbono     </li>
+                    <li>  Ferro      </li>
+
+
+
+                </ul>
+
+            
+           
+             <h4> Tabela</h4>
+           
+            <table border="10">
+                
+                <tr>
+                    <td> Nome               </td>
+                    <td>  Idade             </td>
+                    <td>  CPF               </td>
+                    <td>   CEP              </td>
+                    <td>  Profissão         </td>
+                </tr>
+                <tr>
+                    <td>  Kleber            </td>
+                    <td>  20                </td>
+                    <td>  111.111.111-11    </td>
+                    <td>  85000-250         </td>
+                    <td>  Estudante         </td>
+                </tr>
+                <tr>
+                    <td>     Amaldir        </td>
+                    <td>     80             </td>
+                    <td>   766.677.767-66   </td>
+                    <td>     90850-300      </td>
+                    <td>       Aposentado   </td>
+                </tr>
+
+
+
+
+
+
+        </body>
+
+
+
+
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html lang=""pt-br>
+        <head>
+            <title> tabela </title>
+            <meta charset="UTF-8">
+
+            <style>
+
+                body{
+                    
+                    background-image: linear-gradient( to left, pink, orange, aqua);
+                    
+                }
+
+
+                h1{
+                    text-align: center;
+                    color:black;
+                    font-family: Arial;
+                    font-size: 250%;
+                }
+
+                h2{
+
+                    text-align: center;
+                    color:blue;
+                    font-family: Arial;
+                    font-size: 250%;
+
+
+                }
+                
+                h3{
+
+                    text-align: center;
+                    color:blue;
+                    font-family: Arial;
+                    font-size: 250%;
+
+
+
+
+
+                }
+
+
+                li{
+
+                    
+                    color:blueviolet;
+                    
+                    
+                }
+
+
+                table{
+
+                    background-color: peru;
+                    width: 1260px;
+                    height: 100px;
+
+
+                }
+
+
+
+
+
+
+
+            </style>
+
+        </head>
+        <body>
+
+           
+            <h1> Listas e Tabélas com CSS Interno</h1>
+           
+
+             <h2> Lista Ordenada</h2>
+                <ol>
+                    <li>  Alcool    </li>
+                    <li>  Gasolina       </li>
+                    <li>  Querosene       </li>                
+                    <li>  Clorofórmio       </li>
+
+                </ol>
+           
+            <h3> Lista Não Ordenada </h3>
+           
+                <ul>
+                    <li>  Hidrogênio      </li>
+                    <li>  Hélio    </li>
+                    <li>  Carbono     </li>
+                    <li>  Ferro      </li>
+
+
+
+                </ul>
+
+            
+           
+             <h4> Tabela</h4>
+           
+            <table border="10">
+                
+                <tr>
+                    <td> Nome               </td>
+                    <td>  Idade             </td>
+                    <td>  CPF               </td>
+                    <td>   CEP              </td>
+                    <td>  Profissão         </td>
+                </tr>
+                <tr>
+                    <td>  Kleber            </td>
+                    <td>  20                </td>
+                    <td>  111.111.111-11    </td>
+                    <td>  85000-250         </td>
+                    <td>  Estudante         </td>
+                </tr>
+                <tr>
+                    <td>     Amaldir        </td>
+                    <td>     80             </td>
+                    <td>   766.677.767-66   </td>
+                    <td>     90850-300      </td>
+                    <td>       Aposentado   </td>
+                </tr>
+
+
+
+
+
+
+        </body>
+
+
+
+
 </html>
