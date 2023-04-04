@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <title></title>
+    <meta charset="UTF-8">
+
+        <style>
+
+
+            h1{
+                color: black;
+                text-align: center;
+                font-size: 200%;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            h2{
+                border-radius: 10%;
+                color: white;
+                text-align: center;
+                font-size: 150%;
+                font-family: Arial, Helvetica, sans-serif;
+
+
+
+            }
+            body{
+
+               
+                background-image: url(lago.jpg);
+                background-size: 100%;
+            }
+        
+            img{
+                text-align: left;
+                
+
+            }
+            div{
+                text-align: left;
+               
+            }
+            p{
+
+                font-size: 70%;
+                text-align: left;
+                color: white;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+
+            ul{
+                color: white;
+                font-size: 160%;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+          footer{
+                color: white;
+                font-size: 160%;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+          }
+        </style>
+
+
+        
+    
+
+
+
+
+    </head>
+    <body>
+
+        <h1>Tilápia</color="brown" size="12"h1>
+
+        <hr color="black" size="12">
+
+        <div>
+        <img src="tilapia.jpeg" width="40%" height="370">
+        </div>
+        <p> Tilápia é o nome comum dado a várias espécies de peixes ciclídeos de água doce pertencentes à subfamília Pseudocrocidolita
+             e em particular ao gênero Tilápia. São nativos da África, mas foram introduzidas em muitos lugares nas águas abertas da América do Sul 
+             e sul da América do Norte e são agora comuns na Flórida, Texas e partes do sudoeste dos Estados Unidos, sul e sudeste do Brasil.</p>
+        <p>    Tilápias são fáceis de manter em aquário, já que lhes é suficiente o espaço neles. Elas se reproduzem facilmente e crescem rapidamente, mas são 
+             perigosos para qualquer outro peixe pequeno. 
+             A maioria das espécies são reprodutores de superfície mas alguns protegem a cria na boca
+            
+            </p>
+
+      
+        <h2>Estes seres estão presentes em diversos locais no mundo entre eles</h2>
+        <hr color="black" size="12">
+
+        <ul>
+            <li> Brasil</li>
+            <li> China </li>
+            <li> Indonésia</li>
+            <li> Egito</li>
+            <li> México</li>
+        </ul>
+
+        <footer> Vitor Antônio </footer>
+
+    </body>
+
+
+
+
+
+
+</html>
